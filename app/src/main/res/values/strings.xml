@@ -1,0 +1,38 @@
+<resources>
+
+    <string name="open_link">Otwórz Link!</string>
+
+    <string name="app_name">PiSQuiz</string>
+
+    <string name="pisQuiz_mission_description">Inspiracją do powstania aplikacji stało się przejęcie Polska Press
+    przez kontrolowaną przez PiS spółkę Orlen. Obecna władza widząc słabnące poparcie postanowiła pójść drogą Węgier i Rosji
+    przejmując całe grupy medialne, aby te nie przeszkadzały władzy, a propaganda stała się podobna do tej, którą znamy z TVP.
+    W czasie pandemii wszyscy jesteśmy/byliśmy świadkami nieudolności tej władzy  co przełożyło się na niższe wyniki PiSu w sondażach, które niestety
+    i tak nadal pozostają wysokie. Do wyborów zostało dużo czasu i przez ten czas o wielu przewinieniach tej władzy społeczeństwo może zapomnieć. Celem tej aplikacji jest
+    dać możliwość zaznajomienia się z postępowaniem ludzi PiS, abyśmy po wyborach parlamentach mogli się obudzić w lepszej rzeczywistości. </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_quiz_rules_description">Sprawdź ile wiesz o władzy PiS :) Przed Tobą tylko pozornie prosty quiz, a  oto jego zasady
+    1. Quiz składa się z aż 100 pytań
+    2. Zaznaczenie błędnej odpowiedzi kończy grę
+    3. Pytania zamieniają się nie tylko kolejnością ale również poszczególne warianty zamieniają się miejscami.
+    4. Podając poprawną odpowiedź, w każdym pytaniu pojawi  się link do odpowiedzi( wszystkie pytania odnoszą się do artykułów i portali mediów)
+    5. Przechodząc wszystkie 100 pytań otrzymasz specjalną nagrodę. Powodzenia!</string>
+    <string name="text_support_us">Naszym celem jest dojście do jak największej liczby osób, głównie młodych, które najczęściej korzystają z aplikacji mobilnych, ale nie tylko! Wspierając nasz możesz pomóc dojść do jak największej liczby osób.
+    Otrzymane środki przekażemy między innymi na:
+    1. Reklamy i promocję w sieci
+    2. Zlecenie przepisania aplikacji na system iOS(iPhony)
+    3. Wynagrodzenia dla programistów, rozwój i utrzymanie aplikacji</string>
+    <string name="title_activity_game_over">GameOverActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="try_again">Nieprawidłowa odpowiedź. Spróbuj ponownie!</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>
