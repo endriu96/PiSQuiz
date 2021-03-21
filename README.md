@@ -5,3 +5,5 @@ To increase the credibility of the questions, a link to the source of the page a
 In addition, in the background there is a song that refers to the actions of the authorities. There are supposed to be 100 questions to ask, and more songs. 
 I intend to publish the application in the Play store before the parliamentary elections, which may convince, especially the young generation, not to vote for the current government.
 Open  and download,,PiSQuizPresentation.mp4" to see how the app works :)  
+
+![image](https://user-images.githubusercontent.com/27519681/111907184-76cd8b00-8a54-11eb-9c96-111c000fa17c.png)
