@@ -7,3 +7,4 @@ I intend to publish the application in the Play store before the parliamentary e
 Open  and download,,PiSQuizPresentation.mp4" to see how the app works :)  
 
 
+![pisquiz](https://user-images.githubusercontent.com/27519681/111992309-8bbe2300-8b15-11eb-9dfe-0ea65b91fe15.gif)
